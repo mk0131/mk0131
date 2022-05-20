@@ -5,7 +5,7 @@
 ![mk0131's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk0131&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrbdi741)](https://solved.ac/alsrbdi741/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk0131&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk0131&layout=compact)](https://github.com/mk0131/github-readme-stats)
 
 # 💪Skills
 ### Platforms & Languages
