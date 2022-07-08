@@ -5,7 +5,7 @@
 
 [![mk0131's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk0131&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/mk0131)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk0131&layout=compact)](https://github.com/mk0131/github-readme-stats)
+
 
 
 
